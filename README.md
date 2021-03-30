@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @James-Ruane
+- 🌱 I’m currently learning python and java @Univeristy Of York
+- 📫 How to reach me jamesruane+git@gmail.com
